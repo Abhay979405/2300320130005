@@ -1,0 +1,16 @@
+.app-container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #1976d2;
+}
+
+select {
+  margin: 10px 0;
+  padding: 5px;
+}
